@@ -20,5 +20,3 @@ function consultaCep(){
 
     }
 }
-let botão = document.querySelector("#botão")
-botão.addEventListener("click", consultaCep);
